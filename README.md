@@ -41,7 +41,7 @@ Feel free to drop me a message if you have any questions, suggestions, or just w
 
 ## 🌟 Fun Fact
 
-Did you know that [Interesting Fun Fact]?
+Did you know that the term "debugging" was coined by Grace Hopper when she found a moth trapped in a relay of the Mark II computer in 1947? She documented the incident in her logbook as "First actual case of bug being found." From then on, the process of identifying and fixing software errors became known as "debugging." So the next time you're debugging your code, remember that the term originated from a literal bug!
 
 Thanks for visiting my GitHub profile! Have a great day! 😊
 <!---
