@@ -24,7 +24,7 @@ I enjoy keeping up with the latest industry trends and continuously expanding my
 
 Here are a few projects I've worked on:
 
-- NEWSMONKEY (https://github.com/GuravPratik/NewsMonkey): The React Weather App is a project that I created while learning React, a popular JavaScript library for building user interfaces. This web application allows users to check the news from various fields like sports, technology, health, etc  around the world.
+- NEWSMONKEY (https://github.com/GuravPratik/NewsMonkey): The React News App is a project that I created while learning React, a popular JavaScript library for building user interfaces. This web application allows users to check the news from various fields like sports, technology, health, etc  around the world.
 
 ## 📫 Get in Touch
 
