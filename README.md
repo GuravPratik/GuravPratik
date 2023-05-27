@@ -35,10 +35,6 @@ I'm always interested in connecting with fellow developers and tech enthusiasts.
 
 Feel free to drop me a message if you have any questions, suggestions, or just want to say hi!
 
-## 📊 GitHub Stats
-
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuravPratik&show_icons=true&theme=radical)](https://github.com/GuravPratik)
-
 ## 🌟 Fun Fact
 
 Did you know that the term "debugging" was coined by Grace Hopper when she found a moth trapped in a relay of the Mark II computer in 1947? She documented the incident in her logbook as "First actual case of bug being found." From then on, the process of identifying and fixing software errors became known as "debugging." So the next time you're debugging your code, remember that the term originated from a literal bug!
