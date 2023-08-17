@@ -6,7 +6,6 @@ Welcome to my GitHub profile! I'm passionate about software development and web 
 
 - 🌱 Currently learning MERN stack, TypeScript
 - 👯 Looking to collaborate on interesting projects
-- 😄 Pronouns: Pratik
 
 ## 💻 Skills
 
@@ -25,6 +24,10 @@ I enjoy keeping up with the latest industry trends and continuously expanding my
 Here are a few projects I've worked on:
 
 - NEWSMONKEY (https://github.com/GuravPratik/NewsMonkey): The React News App is a project that I created while learning React, a popular JavaScript library for building user interfaces. This web application allows users to check the news from various fields like sports, technology, health, etc  around the world.
+
+- WorldWise (https://github.com/GuravPratik/worldwise.git): WorldWise is a dynamic and interactive travel journal application that empowers users to chronicle their global adventures by marking cities they've visited on an interactive map. More than just a digital pinboard, WorldWise allows users to capture the essence of their travel experiences by adding rich details and interesting anecdotes about each city they've explored. The platform aims to be a visual and narrative repository of their worldly escapades, enabling them to relive memories and share their journeys with friends and fellow travel enthusiasts.
+
+- ReactQuiz (https://github.com/GuravPratik/React-Quiz.git) : ReactQuizz Lite is a straightforward and engaging application designed to test your knowledge of React, the popular JavaScript library for building user interfaces. With a curated set of 15 questions about React concepts and principles, this compact quizzing platform offers a quick and enjoyable way to assess your familiarity with the framework. Whether you're a beginner looking to reinforce your understanding or an experienced developer brushing up on your skills, ReactQuizz Lite is your go-to destination.
 
 ## 📫 Get in Touch
 
