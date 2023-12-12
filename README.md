@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm passionate about software development and web 
 
 ## 🧑‍💻 About Me
 
-- 🌱 Currently learning MERN stack, TypeScript
+- 🌱 Currently learning Go, Typescript
 - 👯 Looking to collaborate on interesting projects
 
 ## 💻 Skills
